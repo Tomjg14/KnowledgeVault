@@ -8,26 +8,37 @@
 
 # Curated Tech Resources
 
-Welcome! Browse links to high-quality resources.
+<div class="callout callout-info">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    Info
+  </div>
+  Welcome! This is a minimal, categorized collection of high-quality programming, AI, and tech resources.<br>
+  Use the sections below to jump to the type of content you want!
+</div>
 
 ## Programming
 
 <div class="callout callout-note">
-<div class="callout-title">
-<span class="callout-icon">📝</span>
-Blogs
-</div>
-- [Overreacted (Dan Abramov)](https://overreacted.io/)
-- [Joel on Software](https://www.joelonsoftware.com/)
+  <div class="callout-title">
+    <span class="callout-icon">📝</span>
+    Blogs
+  </div>
+  <ul>
+    <li><a href="https://overreacted.io/">Overreacted (Dan Abramov)</a></li>
+    <li><a href="https://www.joelonsoftware.com/">Joel on Software</a></li>
+  </ul>
 </div>
 
 <div class="callout callout-info">
-<div class="callout-title">
-<span class="callout-icon">🎥</span>
-Youtube
-</div>
-- [The Primeagen](https://www.youtube.com/c/ThePrimeagen)
-- [Fireship](https://www.youtube.com/c/Fireship)
+  <div class="callout-title">
+    <span class="callout-icon">🎥</span>
+    YouTube
+  </div>
+  <ul>
+    <li><a href="https://www.youtube.com/c/ThePrimeagen">The Primeagen</a></li>
+    <li><a href="https://www.youtube.com/c/Fireship">Fireship</a></li>
+  </ul>
 </div>
 
 <div class="callout callout-note">
@@ -35,8 +46,12 @@ Youtube
     <span class="callout-icon">📄</span>
     Research Papers
   </div>
-  - [arXiv: Programming Languages](https://arxiv.org/list/cs.PL/recent)
+  <ul>
+    <li><a href="https://arxiv.org/list/cs.PL/recent">arXiv: Programming Languages</a></li>
+  </ul>
 </div>
+
+---
 
 ## AI
 
@@ -45,8 +60,10 @@ Youtube
     <span class="callout-icon">📝</span>
     Blogs
   </div>
-  - [The Gradient](https://thegradient.pub/)  
-  - [Distill](https://distill.pub/)
+  <ul>
+    <li><a href="https://thegradient.pub/">The Gradient</a></li>
+    <li><a href="https://distill.pub/">Distill</a></li>
+  </ul>
 </div>
 
 <div class="callout callout-info">
@@ -54,8 +71,10 @@ Youtube
     <span class="callout-icon">🎥</span>
     YouTube
   </div>
-  - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)  
-  - [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai)
+  <ul>
+    <li><a href="https://www.youtube.com/c/YannicKilcher">Yannic Kilcher</a></li>
+    <li><a href="https://www.youtube.com/c/KárolyZsolnai">Two Minute Papers</a></li>
+  </ul>
 </div>
 
 <div class="callout callout-note">
@@ -63,5 +82,7 @@ Youtube
     <span class="callout-icon">📄</span>
     Research Papers
   </div>
-  - [arXiv: Machine Learning](https://arxiv.org/list/cs.LG/recent)
+  <ul>
+    <li><a href="https://arxiv.org/list/cs.LG/recent">arXiv: Machine Learning</a></li>
+  </ul>
 </div>
