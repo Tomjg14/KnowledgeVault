@@ -19,3 +19,49 @@ a:hover {
 hr {
   margin: 32px 0;
 }
+.infobox {
+  background: #e3f2fd;
+  border-left: 4px solid #42a5f5;
+  padding: 12px 18px;
+  margin: 18px 0;
+  border-radius: 8px;
+}
+.callout {
+  margin: 24px 0;
+  border-radius: 8px;
+  border-left: 6px solid #3a7afe;
+  background: #e8f1ff;
+  padding: 18px 22px 18px 20px;
+  box-shadow: 0 1px 4px rgba(60, 100, 180, 0.06);
+  position: relative;
+}
+
+.callout-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.callout-icon {
+  font-size: 1.3em;
+  margin-right: 0.5em;
+  color: #3a7afe;
+}
+
+.callout-info {
+  border-left-color: #3a7afe;
+  background: #e8f1ff;
+}
+.callout-warning {
+  border-left-color: #ff9800;
+  background: #fff6e1;
+}
+.callout-note {
+  border-left-color: #43a047;
+  background: #e8f5e9;
+}
+.callout-danger {
+  border-left-color: #f44336;
+  background: #ffebee;
+}

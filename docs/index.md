@@ -12,26 +12,56 @@ Welcome! Browse links to high-quality resources.
 
 ## Programming
 
->[!info]- Blogs
->- [Overreacted (Dan Abramov)](https://overreacted.io/)
->- [Joel on Software](https://www.joelonsoftware.com/)
+<div class="callout callout-note">
+<div class="callout-title">
+<span class="callout-icon">📝</span>
+Blogs
+</div>
+- [Overreacted (Dan Abramov)](https://overreacted.io/)
+- [Joel on Software](https://www.joelonsoftware.com/)
+</div>
 
->[!info]- Youtube
->- [The Primeagen](https://www.youtube.com/c/ThePrimeagen)
->- [Fireship](https://www.youtube.com/c/Fireship)
+<div class="callout callout-info">
+<div class="callout-title">
+<span class="callout-icon">🎥</span>
+Youtube
+</div>
+- [The Primeagen](https://www.youtube.com/c/ThePrimeagen)
+- [Fireship](https://www.youtube.com/c/Fireship)
+</div>
 
->[!info]-  Research Papers
->- [arXiv: Programming Languages](https://arxiv.org/list/cs.PL/recent)
+<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">📄</span>
+    Research Papers
+  </div>
+  - [arXiv: Programming Languages](https://arxiv.org/list/cs.PL/recent)
+</div>
 
 ## AI
 
->[!info]- Blogs
->- [The Gradient](https://thegradient.pub/)
->- [Distill](https://distill.pub/)
+<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">📝</span>
+    Blogs
+  </div>
+  - [The Gradient](https://thegradient.pub/)  
+  - [Distill](https://distill.pub/)
+</div>
 
->[!info]- Youtube
->- [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)
->- [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai)
+<div class="callout callout-info">
+  <div class="callout-title">
+    <span class="callout-icon">🎥</span>
+    YouTube
+  </div>
+  - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher)  
+  - [Two Minute Papers](https://www.youtube.com/c/KárolyZsolnai)
+</div>
 
->[!info]-  Research Papers
->- [arXiv: Machine Learning](https://arxiv.org/list/cs.LG/recent)
+<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">📄</span>
+    Research Papers
+  </div>
+  - [arXiv: Machine Learning](https://arxiv.org/list/cs.LG/recent)
+</div>
