@@ -28,23 +28,16 @@
 
 <div class="callout callout-info">
   <div class="callout-title">
-    <span class="callout-icon">🎥</span>
-    YouTube
+    <span class="callout-icon">📄</span>
+    <a href="programming/research.md">Research</a>
   </div>
-  <ul>
-    <li><a href="https://www.youtube.com/c/ThePrimeagen">The Primeagen</a></li>
-    <li><a href="https://www.youtube.com/c/Fireship">Fireship</a></li>
-  </ul>
 </div>
 
 <div class="callout callout-note">
   <div class="callout-title">
-    <span class="callout-icon">📄</span>
-    Research Papers
+    <span class="callout-icon">🎥</span>
+    <a href="programming/youtube.md">Youtube</a>
   </div>
-  <ul>
-    <li><a href="https://arxiv.org/list/cs.PL/recent">arXiv: Programming Languages</a></li>
-  </ul>
 </div>
 
 ---
@@ -54,31 +47,20 @@
 <div class="callout callout-note">
   <div class="callout-title">
     <span class="callout-icon">📝</span>
-    Blogs
+	 <a href="ai/blogs.md">Blogs</a>
   </div>
-  <ul>
-    <li><a href="https://thegradient.pub/">The Gradient</a></li>
-    <li><a href="https://distill.pub/">Distill</a></li>
-  </ul>
 </div>
 
 <div class="callout callout-info">
   <div class="callout-title">
-    <span class="callout-icon">🎥</span>
-    YouTube
+    <span class="callout-icon">📄</span>
+    <a href="ai/research.md">Research</a>
   </div>
-  <ul>
-    <li><a href="https://www.youtube.com/c/YannicKilcher">Yannic Kilcher</a></li>
-    <li><a href="https://www.youtube.com/c/KárolyZsolnai">Two Minute Papers</a></li>
-  </ul>
 </div>
 
 <div class="callout callout-note">
   <div class="callout-title">
-    <span class="callout-icon">📄</span>
-    Research Papers
+    <span class="callout-icon">🎥</span>
+    <a href="ai/youtube.md">Youtube</a>
   </div>
-  <ul>
-    <li><a href="https://arxiv.org/list/cs.LG/recent">arXiv: Machine Learning</a></li>
-  </ul>
 </div>
