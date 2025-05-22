@@ -22,12 +22,8 @@
 <div class="callout callout-note">
   <div class="callout-title">
     <span class="callout-icon">📝</span>
-    Blogs
+	 <a href="programming/blogs.md">Blogs</a>
   </div>
-  <ul>
-    <li><a href="https://overreacted.io/">Overreacted (Dan Abramov)</a></li>
-    <li><a href="https://www.joelonsoftware.com/">Joel on Software</a></li>
-  </ul>
 </div>
 
 <div class="callout callout-info">
