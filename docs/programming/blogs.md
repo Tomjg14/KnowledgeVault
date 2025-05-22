@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/general.css">
+<link rel="stylesheet" href="../css/general.css">
 
 <div style="width:100%; height:120px; overflow:hidden; border-radius:12px;">
   <img src="images/library.jpg" alt="Header" style="width:100%; object-fit:cover; object-position:center top; display:block;">
@@ -34,10 +34,10 @@
 <div class="callout callout-note">
   <div class="callout-title">
     <span class="callout-icon">🐍</span>
-    <a href="programming/youtube.md">Python</a>
+    Python
   </div>
   <ul>
     <li><a href=""></a></li>
-  </ul
+  </ul>
 </div>
 

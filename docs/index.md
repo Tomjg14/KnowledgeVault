@@ -22,21 +22,21 @@
 <div class="callout callout-note">
   <div class="callout-title">
     <span class="callout-icon">📝</span>
-	 <a href="programming/blogs.md">Blogs</a>
+	 <a href="programming/blogs.html">Blogs</a>
   </div>
 </div>
 
 <div class="callout callout-info">
   <div class="callout-title">
     <span class="callout-icon">📄</span>
-    <a href="programming/research.md">Research</a>
+    <a href="programming/research.html">Research</a>
   </div>
 </div>
 
 <div class="callout callout-note">
   <div class="callout-title">
     <span class="callout-icon">🎥</span>
-    <a href="programming/youtube.md">Youtube</a>
+    <a href="programming/youtube.html">Youtube</a>
   </div>
 </div>
 
@@ -47,20 +47,20 @@
 <div class="callout callout-note">
   <div class="callout-title">
     <span class="callout-icon">📝</span>
-	 <a href="ai/blogs.md">Blogs</a>
+	 <a href="ai/blogs.html">Blogs</a>
   </div>
 </div>
 
 <div class="callout callout-info">
   <div class="callout-title">
     <span class="callout-icon">📄</span>
-    <a href="ai/research.md">Research</a>
+    <a href="ai/research.html">Research</a>
   </div>
 </div>
 
 <div class="callout callout-note">
   <div class="callout-title">
     <span class="callout-icon">🎥</span>
-    <a href="ai/youtube.md">Youtube</a>
+    <a href="ai/youtube.html">Youtube</a>
   </div>
 </div>
